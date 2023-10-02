@@ -1,8 +1,8 @@
 +++
-title = "Resources"
+title = "Recursos"
 
 +++
-Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
+A continuación encontrará más materiales y recursos que le ayudarán a encontrar recursos digitales para el acceso a wifi, el uso de la computadora y más. ¡Échales un vistazo!
 
 ##  Free Desktop Computers and Digital Literacy Training
 **Organization**: Digital Equity Center at Temple University  
