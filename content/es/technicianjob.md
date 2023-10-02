@@ -1,9 +1,9 @@
 ---
-date: 2023-09-5
+date: 2023-10-2
 title: "PCW Técnico/Técnica"
 ---
 
-# Philly Community Wireless Job Posting
+# Philly Community Wireless Oferta de trabajo
 
 ## Quien somos:
 Philly Community Wireless es una coalición de tecnólogos y organizadores liderada por voluntarios que trabajan para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. Estamos comprometidos a aumentar la alfabetización tecnológica, ampliar el acceso a Internet y construir autonomía comunitaria con nuestros vecinos. Creemos que el acceso a Internet es un derecho humano. Trabajamos para construir la infraestructura física junto con la participación de la comunidad en la red. Nuestro objetivo es hacer una red wifi robusta gestionada por las personas que la utilizan.
