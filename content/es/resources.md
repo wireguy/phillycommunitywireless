@@ -1,3 +1,8 @@
+---
+date: 2023-10-2
+title: "Recursos"
+---
+
 +++
 title = "Recursos"
 
